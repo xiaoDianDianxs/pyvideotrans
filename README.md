@@ -1,7 +1,5 @@
 
 
----
-
 > **Sponsored Links**
 >
 > ## Recall.ai - Meeting Transcription API
